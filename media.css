@@ -1,0 +1,20 @@
+@media(max-width: 575px){
+	.menu{
+		position: inherit;
+		}
+	.menu a{
+		width: 100%;
+		padding: 20px 0;
+		}
+	.header{
+		margin-top: 0;
+		padding: 100px 10px;
+		background-size: cover; 
+		background-position: center center;
+			}
+	#team{
+		width: 90%;
+		}
+	.member{
+		min-width: 80%;
+		}}
